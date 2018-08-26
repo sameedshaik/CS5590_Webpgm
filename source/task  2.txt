@@ -1,5 +1,6 @@
 <ul id="nav-bar">
         <li><a href="#" class="nav-bar-opacity">Gmail</a></li>
+        <li><a href="#" class="nav-bar-opacity">Images</a></li>
         <li><a href="#"><div id="menu-icon" class="nav-bar-opacity"></div></a></li>
         <li><img src="https://png.icons8.com/metro/1600/appointment-reminders.png" height="38", width="38"/></li>
         <li><img src=""/></li>
