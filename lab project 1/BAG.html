@@ -1,0 +1,43 @@
+<html>
+<head>
+<script>
+    <!-- after reaching bag.html it brings the image which we have seen the previous site and its ready to get  placed order-->
+            if (location.search)
+            {
+                var image = location.search.substring(1);
+               
+                document.write('<img  src="' + image + '"  style="width:300px;height:500px;">');
+            }
+       
+</script>
+<script>
+  function fun()
+{
+   document.write("ORDER HAS BEEN SUCCESSFULLY PLACED"+"</br>");
+
+   document.write("THANKYOU" +"</br>");
+
+   document.write("VISIT AGAIN" +"</br>");
+  
+  
+}
+
+
+
+</script>
+    </head>
+    
+<body>
+<!-- this is for creating a button called place order which completes our order-->
+</br>
+  <input type="button" onclick="fun()" value="PLACE ORDER" id="place_order" target="_self"></input>
+</br>
+
+  <a href="myorders" target="_self">MYORDERS</a>
+<!-- here you can view your previous and current orders-->
+  
+</body>
+</html>
+
+
+

@@ -1,0 +1,66 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="styles.css" />
+<!-- here we create a action button which directs to bag.html(cart) -->
+
+</head>
+<body>
+
+<form method=get action="BAG.html">
+<figure class="ab">
+
+  <div class="image">
+
+    <img src="women.jpg" alt="t-shirt" width="500" height="450"/>
+
+    <!--<div class="icons">
+
+      <a href="#"><i class="ion-star"></i></a>
+     
+      <a href="#"> <i class="ion-search"></i></a>
+
+    </div>-->
+   <input type="button" onclick="location.href='BAG.html?women.jpg';" class="add-to-cart" value="add to cart" >
+
+</input>
+<!-- creating product details here and also given actual price and discount price. -->
+  </div>
+
+ <figcaption>
+    <h2>Denim Shirt</h2>
+    <p>product details.............</p>
+    <div class="price"><s>Actual-price:$55.00</s></br>Price after discount:$45.00 </div>
+  </figcaption>
+<!-- actual price will be striken on the screen using the <s></s>. its much like a commercial website-->
+</figure>
+
+
+<figure class="ab">
+
+  <div class="image">
+
+    <img src="women2.jpg" alt="t-shirt" width="500" height="450"/>
+
+    <!--<div class="icons">
+
+      <a href="#"><i class="ion-star"></i></a>
+     
+      <a href="#"> <i class="ion-search"></i></a>
+
+    </div>-->
+   <input type="button" onclick="location.href='BAG.html?women2.jpg';" class="add-to-cart" value="add to cart" >
+
+</input>
+
+  </div>
+
+ <figcaption>
+    <h2>Denim Shirt</h2>
+    <p>product details.............</p>
+    <div class="price"><s>Actual-price:$85.00</s></br>Price after discount:$65.00 </div>
+  </figcaption>
+
+</figure>
+</form>
+</body>
+</html>

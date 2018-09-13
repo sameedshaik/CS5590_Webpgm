@@ -1,0 +1,46 @@
+<html>
+<title>SIGN IN</title>
+<script type="text/javascript" src="validations.js"></script>
+<style>
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+<!-- here we are just giving the styles and positions for the details of login -->
+    
+}
+</style>
+<body>
+<div>
+    <!-- here we use a form to get our action completed-->
+  <form action="login.html">
+      <!--here we are giving a box type (place holder) for user to enter his data with some transparent text-->
+
+     </t><label for="firstname">FIRSTNAME</label></br>
+    <input type="text" id="firstname" name="firstname" placeholder=" enter your firstname"></br>
+      <!--here we are giving a box type (place holder) for user to enter his first name with some transparent text-->
+  
+     </t><label for="lastname">LASTNAME</label></br>
+    <input type="text" id="lastname" name="lastname" placeholder=" enter your lastname"></br>
+      <!--here we are giving a box type (place holder) for user to enter his last name with some transparent text-->
+
+    <label for="email">EMAIL</label></br>
+    <input type="text" id="email" name="email" placeholder="enter mail id"></br>
+      <!--here we are giving a box type (place holder) for user to enter his email with some transparent text-->
+
+    </t><label for="password">PASSWORD</label></br>
+    <input type="text" id="password" name="password" placeholder=" enter your password"></br>
+      <!--here we are giving a box type (place holder) for user to enter his password with some transparent text-->
+
+     </t><label for=" re-enter password">RE-ENTER PASSWORD</label></br>
+    <input type="text" id="cnf_password" name="password" placeholder=" re-enter password"></br>
+      <!--here we are giving a box type (place holder) for user to re-enter his data if its wrong details ,with some transparent text-->
+
+
+   
+    <input type="submit" value="Submit" onclick=" validateRegister()">
+      <!-- validation register validates user's login credentials and directs to other page according to the result-->
+  </form>
+</div>
+</body>
+</html>

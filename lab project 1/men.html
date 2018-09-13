@@ -1,0 +1,75 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="styles.css" />
+
+
+</head>
+<body>
+<!-- bag.html file directs us to the cart after selecting the product and making the product eligible to place order -->
+<form method=get action="BAG.html">
+<figure class="ab">
+<!-- we took a sample image with some height and width-->
+  <div class="image">
+
+    <img src="men.jpg" alt="t-shirt" width="500" height="450"/>
+
+    <!--<div class="icons">
+
+      <a href="#"><i class="ion-star"></i></a>
+     
+      <a href="#"> <i class="ion-search"></i></a>
+
+    </div>-->
+      <!-- we are adding onclick button when the cursor comes on to the image then it will show a button which shows add to cart-->
+   <input type="button" onclick="location.href='BAG.html?men.jpg';" class="add-to-cart" value="add to cart" >
+
+</input>
+
+  </div>
+
+ <figcaption>
+    <h2>Denim Shirt</h2>
+    <p>product details.............</p>
+    <div class="price"><s>Actual-price:$65.00</s></br>Price after discount:$55.00 </div>
+     <!-- we are giving<S> to the link because it gets striked off and gives the look of natural e commerce website -->
+  </figcaption>
+
+</figure>
+
+<!-- same thing is repeated with the second image of our men's category's seccond image-->
+<figure class="ab">
+
+  <div class="image">
+
+    <img src="men2.jpg" alt="t-shirt" width="500" height="450"/>
+
+    <!--<div class="icons">
+
+      <a href="#"><i class="ion-star"></i></a>
+     
+      <a href="#"> <i class="ion-search"></i></a>
+
+    </div>-->
+   <input type="button" onclick="location.href='BAG.html?men2.jpg';" class="add-to-cart" value="add to cart" >
+
+</input>
+
+  </div>
+
+ <figcaption>
+    <h2>Denim Shirt</h2>
+    <p>product details.............</p>
+    <div class="price"><s>Actual-price:$85.00</s></br>Price after discount:$65.00 </div>
+  </figcaption>
+
+</figure>
+
+
+
+
+</figure>
+</form>
+</body>
+</html>
+
+
