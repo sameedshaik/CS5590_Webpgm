@@ -1,3 +1,4 @@
+<!-- here we are just giving the parents and their childrens for the tree -->
 {
   "name": "United States",
   "parent": "US",
