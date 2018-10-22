@@ -224,7 +224,7 @@ treeJSON = d3.json("treeData.json", function(error, treeData) {
             d.children = null;
         }
     }
-
+    // this is for expanding once you want to expand after collapsing
     function expand(d) {
         if (d._children) {
             d.children = d._children;
