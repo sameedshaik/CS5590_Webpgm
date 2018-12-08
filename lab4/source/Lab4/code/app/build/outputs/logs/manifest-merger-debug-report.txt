@@ -1,0 +1,339 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0940f3687351a8066e7ca3d7f958d956\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\f07d025eb53317d795232922e4806e85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\45bbfaf9e772816653b45899bd7c9054\AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.0.aar\3eca9b612c9814bbdb8f70d5bcfdbfec\AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\c9bd5ad4a2d199ba88008a66a33eb89c\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\741b10a28f0637daa8f8c075ff107826\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\25d3d5e5435eb1dd954207975ce440fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\297254942caeb762c0634d3a589b3f37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a07b9447d66e70e5d874d0bfb2b410e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\812c49e8f12f7e513bc08d20b08e8a41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\23c1b64af505e8f8b415ef8f91fb5501\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\6cad987e849e05512d4a398e69e49025\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\9d7b4705e3a7192780ca69b33576a489\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\167368841cf9c5f1e280ad26fada2c03\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\562dd4cc56c8655ca1784dc0b2839353\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\785cafaa9289ba2a2359e732f817b56c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\61b12b36f9a7f873e5a878a5843715f0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\24074d321bc4da5892a9898b144982af\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d6cfce84b5641188e4715d3b499fbe7a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\20827b27093ec020ee9259ac9289e28a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5e8557243640c03cf9dc788ea3ea81e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\e4187b7cde39cd3c967939101757372d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e6da9674a8f87062c8b428f0b329185f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6cfc8f5e91b951e9d98aabba97d65ed2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5c083177da63a79f1aa290c88c251b6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\135fd473641fdf028333ae11a784c0bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b626b98d9cc64f19285b242aa97e95d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\7bc3db8dfe31f97566821111fc48fdf5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3a280b7fa3f2f9e5bb7c7f9ddf5ea903\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1f66ff4882eefada33ab77b847d3c6ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bcfdeb7d95e4313fec43a00adc1c50f0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e04b38f31f458b2bd77878dbbb3bbe75\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\14fa8765e829ee6d91b9ddc9ed181c09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\2e5ce43f21d7b70b1a7fd5be42f8f811\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a4df9d41ab47c152ece2ed2a38e9e7e3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c6ae55c82262dbde1f1e446909d9153a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\05d9c95529b5ec231f0106156d632c75\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a087642f167364240ef23b8a297b1ade\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\bde26680f8a5970f6b280201d34675da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\508a96fa8be6d2b6fbd2aa6371d4bfa0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9b47a672f42fa9bde766081f6807aa29\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d393cf69d96ff79c9b839b3e28bb35ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b4078e9b02852cf41f28f4b45313c390\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\c9bd5ad4a2d199ba88008a66a33eb89c\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\c9bd5ad4a2d199ba88008a66a33eb89c\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:9:5-36:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0940f3687351a8066e7ca3d7f958d956\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0940f3687351a8066e7ca3d7f958d956\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\45bbfaf9e772816653b45899bd7c9054\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\45bbfaf9e772816653b45899bd7c9054\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\c9bd5ad4a2d199ba88008a66a33eb89c\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\c9bd5ad4a2d199ba88008a66a33eb89c\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\741b10a28f0637daa8f8c075ff107826\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\741b10a28f0637daa8f8c075ff107826\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\6cad987e849e05512d4a398e69e49025\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\6cad987e849e05512d4a398e69e49025\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\9d7b4705e3a7192780ca69b33576a489\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\9d7b4705e3a7192780ca69b33576a489\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\167368841cf9c5f1e280ad26fada2c03\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\167368841cf9c5f1e280ad26fada2c03\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\562dd4cc56c8655ca1784dc0b2839353\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\562dd4cc56c8655ca1784dc0b2839353\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\785cafaa9289ba2a2359e732f817b56c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\785cafaa9289ba2a2359e732f817b56c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\61b12b36f9a7f873e5a878a5843715f0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\61b12b36f9a7f873e5a878a5843715f0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\24074d321bc4da5892a9898b144982af\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\24074d321bc4da5892a9898b144982af\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d6cfce84b5641188e4715d3b499fbe7a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d6cfce84b5641188e4715d3b499fbe7a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bcfdeb7d95e4313fec43a00adc1c50f0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bcfdeb7d95e4313fec43a00adc1c50f0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e04b38f31f458b2bd77878dbbb3bbe75\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e04b38f31f458b2bd77878dbbb3bbe75\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bcfdeb7d95e4313fec43a00adc1c50f0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:15:9-40
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:16:9-18:40
+	android:required
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:17:13-50
+activity#com.umkc.mobile_lab.LoginActivity
+ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:20:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.umkc.mobile_lab.HomeActivity
+ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:27:19-47
+activity#com.umkc.mobile_lab.RegisterActivity
+ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:28:9-54
+	android:name
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:28:19-51
+activity#com.umkc.mobile_lab.MapsActivity
+ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:29:9-50
+	android:name
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:29:19-47
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:31:9-33:55
+	android:value
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:32:13-58
+activity#com.umkc.mobile_lab.CameraActivity
+ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:35:9-61
+	android:name
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml:35:19-49
+uses-sdk
+INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0940f3687351a8066e7ca3d7f958d956\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\0940f3687351a8066e7ca3d7f958d956\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\f07d025eb53317d795232922e4806e85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\f07d025eb53317d795232922e4806e85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\45bbfaf9e772816653b45899bd7c9054\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\45bbfaf9e772816653b45899bd7c9054\AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.0.aar\3eca9b612c9814bbdb8f70d5bcfdbfec\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.0.aar\3eca9b612c9814bbdb8f70d5bcfdbfec\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\c9bd5ad4a2d199ba88008a66a33eb89c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\c9bd5ad4a2d199ba88008a66a33eb89c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\741b10a28f0637daa8f8c075ff107826\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\741b10a28f0637daa8f8c075ff107826\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\25d3d5e5435eb1dd954207975ce440fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\25d3d5e5435eb1dd954207975ce440fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\297254942caeb762c0634d3a589b3f37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\297254942caeb762c0634d3a589b3f37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a07b9447d66e70e5d874d0bfb2b410e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a07b9447d66e70e5d874d0bfb2b410e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\812c49e8f12f7e513bc08d20b08e8a41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\812c49e8f12f7e513bc08d20b08e8a41\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\23c1b64af505e8f8b415ef8f91fb5501\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\23c1b64af505e8f8b415ef8f91fb5501\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\6cad987e849e05512d4a398e69e49025\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\6cad987e849e05512d4a398e69e49025\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\9d7b4705e3a7192780ca69b33576a489\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\9d7b4705e3a7192780ca69b33576a489\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\167368841cf9c5f1e280ad26fada2c03\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\167368841cf9c5f1e280ad26fada2c03\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\562dd4cc56c8655ca1784dc0b2839353\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\562dd4cc56c8655ca1784dc0b2839353\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\785cafaa9289ba2a2359e732f817b56c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\785cafaa9289ba2a2359e732f817b56c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\61b12b36f9a7f873e5a878a5843715f0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\61b12b36f9a7f873e5a878a5843715f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\24074d321bc4da5892a9898b144982af\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\24074d321bc4da5892a9898b144982af\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d6cfce84b5641188e4715d3b499fbe7a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d6cfce84b5641188e4715d3b499fbe7a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\20827b27093ec020ee9259ac9289e28a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\20827b27093ec020ee9259ac9289e28a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5e8557243640c03cf9dc788ea3ea81e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5e8557243640c03cf9dc788ea3ea81e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\e4187b7cde39cd3c967939101757372d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\e4187b7cde39cd3c967939101757372d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e6da9674a8f87062c8b428f0b329185f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e6da9674a8f87062c8b428f0b329185f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6cfc8f5e91b951e9d98aabba97d65ed2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6cfc8f5e91b951e9d98aabba97d65ed2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5c083177da63a79f1aa290c88c251b6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5c083177da63a79f1aa290c88c251b6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\135fd473641fdf028333ae11a784c0bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\135fd473641fdf028333ae11a784c0bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b626b98d9cc64f19285b242aa97e95d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b626b98d9cc64f19285b242aa97e95d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\7bc3db8dfe31f97566821111fc48fdf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\7bc3db8dfe31f97566821111fc48fdf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3a280b7fa3f2f9e5bb7c7f9ddf5ea903\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3a280b7fa3f2f9e5bb7c7f9ddf5ea903\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1f66ff4882eefada33ab77b847d3c6ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1f66ff4882eefada33ab77b847d3c6ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bcfdeb7d95e4313fec43a00adc1c50f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\bcfdeb7d95e4313fec43a00adc1c50f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e04b38f31f458b2bd77878dbbb3bbe75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e04b38f31f458b2bd77878dbbb3bbe75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\14fa8765e829ee6d91b9ddc9ed181c09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\14fa8765e829ee6d91b9ddc9ed181c09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\2e5ce43f21d7b70b1a7fd5be42f8f811\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\2e5ce43f21d7b70b1a7fd5be42f8f811\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a4df9d41ab47c152ece2ed2a38e9e7e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a4df9d41ab47c152ece2ed2a38e9e7e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c6ae55c82262dbde1f1e446909d9153a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c6ae55c82262dbde1f1e446909d9153a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\05d9c95529b5ec231f0106156d632c75\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\05d9c95529b5ec231f0106156d632c75\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a087642f167364240ef23b8a297b1ade\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a087642f167364240ef23b8a297b1ade\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\bde26680f8a5970f6b280201d34675da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\bde26680f8a5970f6b280201d34675da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\508a96fa8be6d2b6fbd2aa6371d4bfa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\508a96fa8be6d2b6fbd2aa6371d4bfa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9b47a672f42fa9bde766081f6807aa29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9b47a672f42fa9bde766081f6807aa29\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d393cf69d96ff79c9b839b3e28bb35ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d393cf69d96ff79c9b839b3e28bb35ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b4078e9b02852cf41f28f4b45313c390\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b4078e9b02852cf41f28f4b45313c390\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\24074d321bc4da5892a9898b144982af\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prave\OneDrive\Desktop\Lab4-20181201T032304Z-001\Lab4\code\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:31:9-35:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.4.aar\dda6cb598b362889b67caeba1187f7bb\AndroidManifest.xml:33:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\c9bd5ad4a2d199ba88008a66a33eb89c\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\c9bd5ad4a2d199ba88008a66a33eb89c\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\c9bd5ad4a2d199ba88008a66a33eb89c\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\c9bd5ad4a2d199ba88008a66a33eb89c\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\c9bd5ad4a2d199ba88008a66a33eb89c\AndroidManifest.xml:28:9-32
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\9d7b4705e3a7192780ca69b33576a489\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\9d7b4705e3a7192780ca69b33576a489\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\9d7b4705e3a7192780ca69b33576a489\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\9d7b4705e3a7192780ca69b33576a489\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\9d7b4705e3a7192780ca69b33576a489\AndroidManifest.xml:11:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\562dd4cc56c8655ca1784dc0b2839353\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\562dd4cc56c8655ca1784dc0b2839353\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\562dd4cc56c8655ca1784dc0b2839353\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\562dd4cc56c8655ca1784dc0b2839353\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\61b12b36f9a7f873e5a878a5843715f0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\61b12b36f9a7f873e5a878a5843715f0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\61b12b36f9a7f873e5a878a5843715f0\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\24074d321bc4da5892a9898b144982af\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d6cfce84b5641188e4715d3b499fbe7a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d6cfce84b5641188e4715d3b499fbe7a\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\24074d321bc4da5892a9898b144982af\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\prave\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\24074d321bc4da5892a9898b144982af\AndroidManifest.xml:27:13-51
